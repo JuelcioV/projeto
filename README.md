@@ -1,7 +1,8 @@
-# projeto
-<h1 align="center">
-  <img alt="Rocket.Q" title="Rocket.Q" src=".github/rocketq.png" width="220px" />
-</h1>
+<h1 align="center"> DEVLINKS </h1>
+
+<p align="center">
+Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -11,54 +12,36 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
-
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Rocket.Q" src=".github/capa.png" width="100%">
+  <img alt="Project DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
+- HTML e CSS
 - JavaScript
-- NodeJS
-- EJS
-- Express
-- SQLite
+- Git e Github
+- Figma
 
 ## 💻 Projeto
 
-O Rocket.Q é uma aplicação de interação através de perguntas, sendo possível criar uma sala para internautas anônimos fazerem perguntas e o criador da sala em posse de uma senha gerenciar essas perguntas e marcar como lidas.
+O DevLinks é um programa de links para usar como cartão de visita online.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1009821158959690135/Roquet.q). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK]https://www.figma.com/file/DQa5C7a5fNCCg6Si0Ltmzp/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=10-620&t=aSA0LDnt7n5X6Zk6-0. É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
-
-<!--END_SECTION:footer-->
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
